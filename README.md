@@ -1,15 +1,21 @@
-# Flutter E-commerce Mobile App Templates
+# TUGAS Advand Mobile Programming
 
-## [Watch it on YouTube](https://youtu.be/XBKzpTz65Io)
+A. ProjectTugasUTS AdvandMobile Programming
+1. Halaman Login
+2. Halaman Dasboard
+3. Halaman Profil
+B. Dari ketiga halaman tersebut terdiri dari komponen :
+1. Text
+2. Gambar
+3. Icon
+4. List view horizontal, vertikal+card view
+5. Navigator
 
-**Packages we are using:**
 
-- flutter_svg: [link](https://pub.dev/packages/flutter_svg)
-
-Catch a glimpse of our modern Flutter E-commerce app template, up for grabs for free on Github! Designed for an intuitive shopping experience, this Flutter shop app template neatly organizes products under a horizontal scroll of categories. As you dive deeper into a product, the details page unveils its price, a brief description, and an eye-catching 'Buy Now' button set against the product's unique color theme. It's not just about selling; it's about presenting each product in its best light.
-
-### Flutter Shop App template final preview
+### final preview
 
 ![intro](intro.gif)
 
-![App UI](/ui.png)
+![App UI](/ui1.png)
+![App UI](/ui2.png)
+![App UI](/ui3.png)
